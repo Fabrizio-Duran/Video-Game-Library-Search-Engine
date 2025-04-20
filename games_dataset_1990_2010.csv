@@ -1,148 +1,302 @@
-Title,Genre,Release Year,Description
-Super Mario World,Platformer,1990,A side-scrolling platform game where Mario and Luigi with the help of Yoshi navigate Dinosaur Land to rescue Princess Toadstool from Bowser across diverse worlds.
-F-Zero,Racing,1990,A futuristic racing game set in 2560 where players compete in high-speed hovercar races in a tournament inspired by Formula One.
-Final Fantasy III,JRPG,1990,A role-playing game where four orphans chosen by crystals battle to restore balance between light and darkness introducing the job system for character customization.
-Mega Man 3,Platformer,1990,Mega Man battles Dr. Wily’s robots gaining new abilities like sliding and the Rush companion with tight controls and iconic music shaping the series.
-Fire Emblem: Shadow Dragon and the Blade of Light,Strategy RPG,1990,A tactical RPG where players lead Marth’s army in turn-based battles establishing core gameplay elements for the genre.
-Metal Gear 2: Solid Snake,Stealth,1990,Solid Snake infiltrates Zanzibar Land to stop a nuclear threat expanding stealth mechanics with crawling and radar systems.
-Dr. Mario,Puzzle,1990,A puzzle game where players align colored pills to eliminate viruses in a grid combining Tetris-like mechanics with medical themes.
-Commander Keen,Platformer,1990,A shareware PC platformer where Billy Blaze as Commander Keen explores alien worlds with a pogo stick and raygun to thwart invaders.
-Railroad Tycoon,Simulation,1990,A business sim where players build and manage railroad empires balancing finances routes and competition in a historical setting.
-Wing Commander,Space Sim,1990,A space combat simulator where players pilot a Confederation fighter against the Kil Mao,Stealth,1998,Solid Snake infiltrates a nuclear facility blending stealth cinematic cutscenes and philosophical themes.
-Resident Evil 2,Survival Horror,1998,Leon and Claire survive a zombie outbreak in Raccoon City with dual campaigns and tense resource management.
-Spyro the Dragon,3D Platformer,1998,Spyro explores vibrant worlds to free dragons with fluid gliding and colorful platforming.
-Pokémon Yellow,JRPG,1998,An enhanced Pokémon game where Pikachu follows the player mirroring the anime’s story.
-Grim Fandango,Point-and-Click Adventure,1998,Manny Calavera navigates the Land of the Dead solving noir-inspired puzzles with sharp wit.
-Thief: The Dark Project,Stealth,1998,Garrett steals through a steampunk city using shadows and tools to avoid detection.
-Baldur’s Gate,CRPG,1998,Players explore the Forgotten Realms building a party and making choices in a deep D&D-based RPG.
-Turok 2: Seeds of Evil,FPS,1998,Joshua Fireseed battles Primagen’s forces with expansive levels and creative weapons like the Cerebral Bore.
-Banjo-Kazooie,3D Platformer,1998,Banjo and Kazooie collect Jiggies to stop Gruntilda with vibrant worlds and clever puzzles.
-F-Zero X,Racing,1998,High-speed futuristic racing with 30 hovercars emphasizing skill and track mastery on 3D courses.
-Xenogears,JRPG,1998,Fei Fong Wong uncovers a complex sci-fi saga with deep combat blending martial arts and mechs.
-The Legend of Zelda: Majora’s Mask,Action-Adventure,2000,Link has three days to save Termina from a falling moon using time loops and masks.
-Diablo II,Action RPG,2000,Heroes chase Diablo through randomized dungeons with refined loot systems and multiplayer focus.
-Final Fantasy IX,JRPG,2000,Zidane and friends uncover a fantasy world’s secrets with vibrant characters and classic FF gameplay.
-Tony Hawk’s Pro Skater 2,Sports,2000,Skaters pull off combos in open levels with tight controls and a punk soundtrack defining skate culture.
-Chrono Cross,JRPG,2000,Serge navigates parallel worlds to unravel a time-bending mystery with vibrant visuals and unique combat.
-The Sims,Life Sim,2000,Players manage virtual people’s lives building homes and guiding careers in an open-ended sandbox.
-Baldur’s Gate II: Shadows of Amn,CRPG,2000,The Bhaalspawn saga continues with deeper role-playing party management and epic D&D storytelling.
-Perfect Dark,FPS,2000,Joanna Dark infiltrates conspiracies with advanced AI gadgets and robust multiplayer modes.
-Vagrant Story,Action RPG,2000,Ashley Riot explores Leá Monde blending tactical combat and intricate crafting in a dark fantasy tale.
-Pokémon Gold and Silver,JRPG,2000,Players explore Johto catching new Pokémon and battling with enhanced mechanics like breeding.
-Deus Ex,Immersive Sim,2000,JC Denton navigates a cyberpunk conspiracy with open-ended gameplay blending stealth combat and choice.
-Jet Set Radio,Action,2000,Skaters graffiti Tokyo-to while evading police with stylish visuals and a funky soundtrack.
-Shenmue,Action-Adventure,2000,Ryo Hazuki seeks his father’s killer in an open-world Yokosuka with detailed NPCs and QTE combat.
-Paper Mario,RPG,2000,Mario explores a paper-crafted world using turn-based combat and partners to rescue Peach.
-Halo: Combat Evolved,FPS,2001,Master Chief battles the Covenant on a ringworld with tight shooting and cooperative gameplay.
-Final Fantasy X,JRPG,2001,Tidus joins Yuna’s pilgrimage to defeat Sin with voice acting and a sphere grid system.
-Grand Theft Auto III,Open World,2001,Players rise in Liberty City’s criminal underworld with 3D open-world freedom and mission-based gameplay.
-Silent Hill 2,Survival Horror,2001,James Sunderland explores Silent Hill to find his dead wife with psychological horror and emotional depth.
-Super Smash Bros. Melee,Fighting,2001,Nintendo characters battle in fast-paced arenas with refined mechanics beloved by competitive players.
-Animal Crossing,Life Sim,2001,Players live in a village with animal neighbors fishing decorating and paying off a home loan.
-Ico,Action-Adventure,2001,A boy and princess escape a castle with minimalist storytelling and cooperative puzzles.
-Max Payne,Third-Person Shooter,2001,Max seeks revenge in a noir-inspired shooter using bullet time for cinematic gunfights.
-Luigi’s Mansion,Action-Adventure,2001,Luigi vacuums ghosts in a haunted mansion with charming exploration and puzzle-solving.
-Phoenix Wright: Ace Attorney,Visual Novel,2001,Phoenix defends clients in court investigating and cross-examining in a dramatic legal adventure.
-Devil May Cry,Action,2001,Dante hunts demons with stylish swordplay and gunfights defining the character action genre.
-Pikmin,Real-Time Strategy,2001 South Africa,2001,Olimar commands colorful Pikmin to solve puzzles and rebuild his ship on a strange planet.
-Metroid Prime,Action-Adventure,2002,Samus explores Tallon IV in a 3D first-person adventure with scanning and morph ball mechanics.
-Grand Theft Auto: Vice City,Open World,2002,Tommy Vercetti builds a criminal empire in a 1980s-inspired city with vibrant music and missions.
-The Legend of Zelda: The Wind Waker,Action-Adventure,2002,Link sails the Great Sea to stop Ganon with cel-shaded art and open-world exploration.
-Resident Evil (Remake),Survival Horror,2002,Chris and Jill explore a revamped mansion with updated visuals and tighter survival horror mechanics.
-Kingdom Hearts,Action RPG,2002,Sora teams with Disney and Final Fantasy characters to fight Heartless blending action and heartfelt storytelling.
-Battlefield 1942,FPS,2002,Players fight in WWII battles with large-scale maps and vehicles supporting team-based combat.
-Warcraft III: Reign of Chaos,Real-Time Strategy,2002,Heroes lead armies in Azeroth with RPG elements and a story shaping the MMO era.
-Splinter Cell,Stealth,2002,Sam Fisher infiltrates enemy bases using gadgets and shadows in a tense espionage thriller.
-Ratchet & Clank,3D Platformer,2002,Ratchet and Clank battle Chairman Drek with quirky weapons and vibrant platforming worlds.
-Neverwinter Nights,CRPG,2002,Players explore D&D’s Forgotten Realms with robust single-player and multiplayer storytelling tools.
-Morrowind,CRPG,2002,Players explore Vvardenfell as the Nerevarine with open-ended role-playing and deep lore.
-Super Mario Sunshine,3D Platformer,2002,Mario cleans Isle Delfino with FLUDD blending platforming with open-ended exploration.
-Metroid Fusion,Metroidvania,2002,Samus investigates a parasitic outbreak on a space station with linear storytelling and tight action.
-Fire Emblem,Strategy RPG,2003,Players lead a tactical army in a fantasy war with permadeath adding weight to strategic choices.
-Star Wars: Knights of the Old Republic,CRPG,2003,A Jedi uncovers their destiny in a Star Wars RPG with moral choices and party-based combat.
-Beyond Good & Evil,Action-Adventure,2003,Jade investigates a conspiracy blending stealth photography and heartfelt storytelling.
-Prince of Persia: The Sands of Time,Action-Adventure,2003,The Prince rewinds time to stop a vizier with fluid parkour and combat.
-The Legend of Zelda: The Wind Waker,Action-Adventure,2003,Link sails a cel-shaded sea exploring islands and dungeons to defeat Ganon.
-Max Payne 2: The Fall of Max Payne,Third-Person Shooter,2003,Max’s noir tale continues with refined bullet time and a deeper tragic love story.
-F-Zero GX,Racing,2003,High-speed futuristic racing with intense tracks and a story mode pushing skill-based competition.
-Viewtiful Joe,Beat ‘em Up,2003,Joe battles in a movie-inspired world using VFX powers to slow or speed time.
-Call of Duty,FPS,2003,Soldiers fight in WWII campaigns with cinematic set pieces and squad-based shooting.
-Mario Kart: Double Dash!!,Racing,2003,Two characters per kart race with cooperative items adding teamwork to chaotic tracks.
-Final Fantasy XI,MMORPG,2003,Players adventure in Vana’diel with group-based quests and a persistent online world.
-Half-Life 2,FPS,2004,Gordon Freeman fights the Combine in City 17 with groundbreaking physics and immersive storytelling.
-World of Warcraft,MMORPG,2004,Players explore Azeroth questing and raiding in a massive online world that defined the genre.
-Halo 2,FPS,2004,Master Chief and the Arbiter battle Covenant with refined shooting and iconic Xbox Live multiplayer.
-Metal Gear Solid 3: Snake Eater,Stealth,2004,Naked Snake infiltrates a 1960s jungle with survival mechanics and emotional storytelling.
-The Legend of Zelda: The Minish Cap,Action-Adventure,2004,Link shrinks to explore Hyrule with charming visuals and creative puzzles.
-Metroid Prime 2: Echoes,Action-Adventure,2004,Samus battles Ing on Aether with light-dark world mechanics and intense exploration.
-Ninja Gaiden,Action,2004,Ryu Hayabusa slashes through enemies with brutal difficulty and precise combat.
-Doom 3,FPS,2004,A marine battles demons on a Mars base with horror-focused shooting and atmospheric lighting.
-Fable,Action RPG,2004,Players shape a hero’s life in Albion with moral choices affecting appearance and story.
-Katamari Damacy,Action,2004,The Prince rolls objects into a ball to rebuild stars with quirky gameplay and a whimsical soundtrack.
-Paper Mario: The Thousand-Year Door,RPG,2004,Mario hunts Crystal Stars in a paper world with witty dialogue and turn-based combat.
-Resident Evil 4,Survival Horror,2005,Leon Kennedy rescues the president’s daughter with over-the-shoulder shooting and intense action.
-Shadow of the Colossus,Action-Adventure,2005,Wander slays massive colossi to revive Mono with minimalist storytelling and epic scale.
-Splinter Cell: Chaos Theory,Stealth,2005,Sam Fisher stops a cyber conspiracy with refined stealth and open-ended missions.
-Battlefield 2,FPS,2005,Modern warfare with large maps vehicles and squad-based multiplayer emphasizing teamwork.
-Forza Motorsport,Sim Racing,2005,A realistic racer with customizable cars and precise handling competing on global tracks.
-God of War,Action,2005,Kratos battles Greek gods with brutal combos and epic set pieces in a mythic saga.
-Nintendogs,Pet Sim,2005,Players care for virtual puppies training and bonding through touchscreen interactions.
-Guitar Hero,Music,2005,Players strum plastic guitars to hit notes in rock songs sparking a rhythm game craze.
-Fire Emblem: Path of Radiance,Strategy RPG,2005,Ike leads a mercenary band with deep tactical battles and a compelling story.
-Animal Crossing: Wild World,Life Sim,2005,Players live in a village socializing with animals and decorating in a portable world.
-Pokémon Emerald,JRPG,2005,An enhanced Hoenn adventure with both Team Magma and Aqua adding Battle Frontier.
-Civilization IV,4X Strategy,2005,Players build empires with deeper diplomacy and religion systems refining the 4X formula.
-Devil May Cry 3: Dante’s Awakening,Action,2005,Dante battles demons with stylish combat introducing style-switching for combos.
-The Legend of Zelda: Twilight Princess,Action-Adventure,2006,Link transforms into a wolf to save Hyrule with dark tones and epic dungeons.
-Wii Sports,Sports,2006,Motion-controlled tennis bowling and more introducing casual gaming to millions.
-Gears of War,Third-Person Shooter,2006,Marcus Fenix battles Locust with cover-based shooting and gritty co-op action.
-Okami,Action-Adventure,2006,Amaterasu a wolf goddess restores a vibrant world using celestial brush techniques.
-Bully,Open World,2006,Jimmy Hopkins navigates a boarding school with open-world pranks and social dynamics.
-Elder Scrolls IV: Oblivion,CRPG,2006,Players explore Cyrodiil closing Oblivion gates in a vast choice-driven RPG.
-Dead Rising,Action-Adventure,2006,Frank West survives a zombie mall using improvised weapons and time-sensitive missions.
-Final Fantasy XII,JRPG,2006,Balthier and Ashe fight an empire in Ivalice with open-world exploration and gambit-based combat.
-New Super Mario Bros.,Platformer,2006,Mario rescues Peach in a modernized 2D platformer blending classic and new mechanics.
-Company of Heroes,Real-Time Strategy,2006,WWII squads fight with dynamic cover and tactical depth redefining RTS battles.
-Pokémon Diamond and Pearl,JRPG,2007,Players explore Sinnoh catching new Pokémon and battling with online features.
-BioShock,FPS,2007,Jack explores Rapture blending shooting plasmids and moral choices in a dystopian narrative.
-Halo 3,FPS,2007,Master Chief concludes the Covenant war with epic campaigns and robust multiplayer.
-Super Mario Galaxy,3D Platformer,2007,Mario travels planetoids to save Peach with gravity-defying platforming and stunning visuals.
-Portal,Puzzle,2007,Players solve test chambers with a portal gun guided by GLaDOS’s witty sinister commentary.
-Call of Duty 4: Modern Warfare,FPS,2007,Soldiers fight in modern conflicts with cinematic campaigns and addictive multiplayer.
-Mass Effect,Action RPG,2007,Commander Shepard explores the galaxy with branching dialogue and squad-based combat.
-Uncharted: Drake’s Fortune,Action-Adventure,2007,Nathan Drake hunts treasure blending platforming shooting and cinematic storytelling.
-Crysis,FPS,2007,Nomad uses a nanosuit to fight aliens with open levels and cutting-edge graphics.
-The Witcher,Action RPG,2007,Geralt hunts monsters in a morally gray world with deep choices and nonlinear quests.
-Team Fortress 2,FPS,2007,Class-based multiplayer shooter with cartoonish art emphasizing teamwork and varied roles.
-Fallout 3,Action RPG,2008,The Lone Wanderer explores a post-apocalyptic D.C. with open-world freedom and moral dilemmas.
-Grand Theft Auto IV,Open World,2008,Niko Bellic navigates Liberty City’s underworld with a gritty story and expansive gameplay.
-Left 4 Dead,Co-op Shooter,2008,Survivors battle zombie hordes with dynamic AI and cooperative multiplayer intensity.
-Dead Space,Survival Horror,2008,Isaac Clarke fights necromorphs on a mining ship with dismemberment-focused combat and horror.
-Gears of War 2,Third-Person Shooter,2008,Marcus Fenix delves deeper into the Locust war with refined cover mechanics and co-op.
-Fable II,Action RPG,2008,Players shape a hero’s life in Albion with family dynamics and moral choices affecting the world.
-Mirror’s Edge,Action,2008,Faith runs and parkours through a dystopian city with fluid movement and minimalist combat.
-Spore,Simulation,2008,Players evolve creatures from cells to spacefarers blending creativity and strategy across stages.
-Braid,Platformer,2008,Tim manipulates time to solve puzzles with painterly art and a narrative exploring regret.
-Burnout Paradise,Open World Racing,2008,Players race and crash in Paradise City with seamless multiplayer and open-world events.
-Super Smash Bros. Brawl,Fighting,2008,Nintendo characters battle with new Subspace Emissary mode and expanded rosters.
-Batman: Arkham Asylum,Action-Adventure,2009,Batman battles Joker in Arkham with stealth combat and detective mechanics.
-Dragon Age: Origins,CRPG,2009,A Warden unites Ferelden against a Blight with deep role-playing and tactical combat.
-Uncharted 2: Among Thieves,Action-Adventure,2009,Nathan Drake chases a lost fleet with cinematic set pieces and refined gameplay.
-Borderlands,Looter Shooter,2009,Vault Hunters loot Pandora blending FPS action with RPG leveling and co-op chaos.
-Assassin’s Creed II,Action-Adventure,2009,Ezio Auditore seeks revenge in Renaissance Italy with open-world parkour and refined stealth.
-Demon’s Souls,Action RPG,2009,Players brave Boletaria’s brutal world with punishing combat and innovative online features.
-Plants vs. Zombies,Tower Defense,2009,Players use plants to fend off quirky zombies with strategic depth and charming art.
-Bayonetta,Action,2009,Bayonetta battles angels with stylish combos blending fast-paced combat and campy storytelling.
-Minecraft,Sandbox,2009,Players build and explore blocky worlds with limitless creativity and survival challenges.
-Pokémon HeartGold and SoulSilver,JRPG,2009,Remakes of Gold and Silver with updated visuals and Pokémon following players in Johto.
-Mass Effect 2,Action RPG,2010,Shepard builds a team to stop Collectors with refined shooting and deep companion stories.
-Red Dead Redemption,Open World,2010,John Marston hunts outlaws in a dying Wild West with expansive exploration and moral choices.
-Super Mario Galaxy 2,3D Platformer,2010,Mario explores new galaxies with tighter levels and Yoshi’s return for creative platforming.
-God of War III,Action,2010,Kratos seeks revenge on Olympus with brutal combat and massive-scale battles.
-Heavy Rain,Interactive Drama,2010,Players control four characters in a cinematic thriller with choices shaping a missing-child mystery.
-BioShock 2,FPS,2010,Subject Delta explores Rapture blending plasmids and shooting with a personal story.
-Xenoblade Chronicles,JRPG,2010,Shulk wields the Monado to stop Mechon with vast open worlds and real-time combat.
-Fallout: New Vegas,Action RPG,2010,The Courier shapes the Mojave’s fate with deep role-playing and faction-driven choices.
-Limbo,Platformer,2010,A boy navigates a monochromatic world with atmospheric puzzles and minimalist horror.
-Assassin’s Creed: Brotherhood,Action-Adventure,2010,Ezio builds a brotherhood in Rome with multiplayer and refined open-world stealth.
-Donkey Kong Country Returns,Platformer,2010,Donkey and Diddy reclaim bananas with tight platforming and vibrant levels.
+data = [
+    {"title": "The Sims", "year": 2000, "genre": "Life Simulation", "description": "Create and control virtual people, managing their daily lives, relationships, and careers in a suburban sandbox."},
+    {"title": "Diablo II", "year": 2000, "genre": "Action RPG", "description": "Battle through dark fantasy realms to defeat Diablo, upgrading skills and looting gear in a hack-and-slash adventure."},
+    {"title": "Final Fantasy IX", "year": 2000, "genre": "RPG", "description": "Join Zidane and a band of heroes to stop a world-threatening war in a steampunk fantasy realm."},
+    {"title": "Tony Hawk's Pro Skater 2", "year": 2000, "genre": "Sports", "description": "Perform tricks and combos as a pro skater across iconic levels with a killer soundtrack."},
+    {"title": "Deus Ex", "year": 2000, "genre": "Immersive Sim", "description": "As JC Denton, navigate a cyberpunk conspiracy with freedom to choose stealth, combat, or hacking."},
+    {"title": "Baldur's Gate II: Shadows of Amn", "year": 2000, "genre": "RPG", "description": "Lead a party through the Forgotten Realms, facing epic quests and moral dilemmas in a D&D adventure."},
+    {"title": "The Legend of Zelda: Majora's Mask", "year": 2000, "genre": "Action-Adventure", "description": "Link must save Termina from a falling moon in a time-looping adventure with masks granting unique abilities."},
+    {"title": "Perfect Dark", "year": 2000, "genre": "FPS", "description": "Agent Joanna Dark uncovers alien conspiracies in a futuristic shooter with stealth and multiplayer modes."},
+    {"title": "Jet Set Radio", "year": 2000, "genre": "Action", "description": "Skate through Tokyo-to, tagging graffiti and evading cops in a vibrant, cel-shaded world."},
+    {"title": "SSX", "year": 2000, "genre": "Sports", "description": "Race and perform tricks on snowy slopes in this fast-paced snowboarding game with arcade flair."},
+    {"title": "Resident Evil – Code: Veronica", "year": 2000, "genre": "Survival Horror", "description": "Claire Redfield battles zombies on a remote island, uncovering Umbrella’s sinister experiments."},
+    {"title": "Vagrant Story", "year": 2000, "genre": "Action RPG", "description": "As Ashley Riot, explore dungeons and unravel a dark fantasy plot with tactical combat."},
+    {"title": "Crazy Taxi", "year": 2000, "genre": "Racing", "description": "Drive a taxi at breakneck speeds, delivering passengers in a chaotic, open-world city."},
+    {"title": "Shenmue", "year": 2000, "genre": "Action-Adventure", "description": "Ryo Hazuki seeks his father’s killer in a detailed open world with QTEs and daily routines."},
+    {"title": "Skies of Arcadia", "year": 2000, "genre": "RPG", "description": "Sail the skies as a pirate, battling enemies and exploring floating islands in a vibrant JRPG."},
+    {"title": "Chrono Cross", "year": 2000, "genre": "RPG", "description": "Serge navigates parallel worlds to uncover a cosmic mystery in this sequel to Chrono Trigger."},
+    {"title": "NFL 2K1", "year": 2000, "genre": "Sports", "description": "Compete in realistic American football matches with innovative passing mechanics and online play."},
+    {"title": "Spyro: Year of the Dragon", "year": 2000, "genre": "Platformer", "description": "Spyro rescues dragon eggs from an evil sorceress across colorful 3D worlds."},
+    {"title": "Dragon Quest VII", "year": 2000, "genre": "RPG", "description": "Travel through time to restore lost continents in a classic turn-based JRPG."},
+    {"title": "Hitman: Codename 47", "year": 2000, "genre": "Stealth", "description": "As Agent 47, assassinate targets using disguises and creative tactics in a gritty crime world."},
+    {"title": "Halo: Combat Evolved", "year": 2001, "genre": "FPS", "description": "As Master Chief, fight alien Covenant forces on a ringworld in a groundbreaking sci-fi shooter."},
+    {"title": "Grand Theft Auto III", "year": 2001, "genre": "Open World", "description": "Claude rises through Liberty City’s criminal underworld in a revolutionary 3D sandbox."},
+    {"title": "Final Fantasy X", "year": 2001, "genre": "RPG", "description": "Tidus and Yuna embark on a pilgrimage to defeat Sin in a visually stunning JRPG."},
+    {"title": "Metal Gear Solid 2: Sons of Liberty", "year": 2001, "genre": "Stealth", "description": "Snake and Raiden infiltrate a terrorist threat, blending stealth with a complex narrative."},
+    {"title": "Super Smash Bros. Melee", "year": 2001, "genre": "Fighting", "description": "Nintendo characters battle in fast-paced multiplayer arenas with precise mechanics."},
+    {"title": "Animal Crossing", "year": 2001, "genre": "Life Simulation", "description": "Live in a cozy village, fishing, decorating, and bonding with quirky animal neighbors."},
+    {"title": "Devil May Cry", "year": 2001, "genre": "Action", "description": "Dante hunts demons with stylish sword-and-gun combat in a gothic action game."},
+    {"title": "Silent Hill 2", "year": 2001, "genre": "Survival Horror", "description": "James Sunderland explores a foggy town, confronting psychological horrors and personal trauma."},
+    {"title": "Luigi’s Mansion", "year": 2001, "genre": "Action-Adventure", "description": "Luigi vacuums ghosts in a haunted mansion to rescue Mario in this quirky adventure."},
+    {"title": "Jak and Daxter: The Precursor Legacy", "year": 2001, "genre": "Platformer", "description": "Jak and Daxter collect power cells to stop an evil plot in a vibrant 3D world."},
+    {"title": "Red Faction", "year": 2001, "genre": "FPS", "description": "Fight as a miner rebelling against a Martian corporation with destructible environments."},
+    {"title": "Pikmin", "year": 2001, "genre": "Strategy", "description": "Captain Olimar commands colorful Pikmin to recover ship parts on a strange planet."},
+    {"title": "Max Payne", "year": 2001, "genre": "Third-Person Shooter", "description": "A noir-inspired cop uses bullet-time to battle criminals after a personal tragedy."},
+    {"title": "Ico", "year": 2001, "genre": "Action-Adventure", "description": "A boy and a princess escape a cursed castle in a minimalist, emotional puzzle adventure."},
+    {"title": "Advance Wars", "year": 2001, "genre": "Turn-Based Strategy", "description": "Command armies in tactical battles with colorful units and strategic depth."},
+    {"title": "Burnout", "year": 2001, "genre": "Racing", "description": "Race at high speeds, crashing rivals in an adrenaline-pumping arcade racer."},
+    {"title": "Golden Sun", "year": 2001, "genre": "RPG", "description": "Young heroes wield elemental magic to save their world in a classic handheld JRPG."},
+    {"title": "Gran Turismo 3: A-Spec", "year": 2001, "genre": "Racing", "description": "Race realistic cars on detailed tracks in a premier racing simulator."},
+    {"title": "Twisted Metal: Black", "year": 2001, "genre": "Vehicular Combat", "description": "Battle in armed vehicles in a dark, chaotic tournament with twisted characters."},
+    {"title": "Phantasy Star Online", "year": 2001, "genre": "MMORPG", "description": "Team up to explore alien planets, battling monsters in a pioneering online RPG."},
+    {"title": "Resident Evil 4", "year": 2005, "genre": "Survival Horror", "description": "Leon Kennedy rescues the president’s daughter from a cult in a revolutionary action-horror game."},
+    {"title": "Grand Theft Auto: San Andreas", "year": 2004, "genre": "Open World", "description": "CJ navigates 1990s gang life across a massive state in a landmark sandbox game."},
+    {"title": "Half-Life 2", "year": 2004, "genre": "FPS", "description": "Gordon Freeman battles alien oppressors in a physics-driven sci-fi shooter masterpiece."},
+    {"title": "World of Warcraft", "year": 2004, "genre": "MMORPG", "description": "Explore Azeroth, questing and raiding in the definitive massively multiplayer RPG."},
+    {"title": "Shadow of the Colossus", "year": 2005, "genre": "Action-Adventure", "description": "Slay massive colossi in a haunting, minimalist world to save a loved one."},
+    {"title": "God of War", "year": 2005, "genre": "Action", "description": "Kratos seeks vengeance against Ares in a brutal, mythological hack-and-slash epic."},
+    {"title": "Battlefield 2", "year": 2005, "genre": "FPS", "description": "Engage in large-scale modern warfare with vehicles and team-based multiplayer."},
+    {"title": "Ninja Gaiden", "year": 2004, "genre": "Action", "description": "Ryu Hayabusa battles ninjas and demons in a challenging, fast-paced action game."},
+    {"title": "Katamari Damacy", "year": 2004, "genre": "Puzzle", "description": "Roll objects into a growing ball to rebuild stars in a quirky, colorful adventure."},
+    {"title": "Metroid Prime", "year": 2002, "genre": "Action-Adventure", "description": "Samus explores a 3D alien world, solving puzzles and battling foes in a first-person adventure."},
+    {"title": "The Elder Scrolls III: Morrowind", "year": 2002, "genre": "RPG", "description": "Explore a vast fantasy world with unmatched freedom in an open-ended RPG."},
+    {"title": "Warcraft III: Reign of Chaos", "year": 2002, "genre": "RTS", "description": "Command armies in a fantasy war, blending strategy and hero-based gameplay."},
+    {"title": "Splinter Cell", "year": 2002, "genre": "Stealth", "description": "Sam Fisher infiltrates enemy bases using stealth and gadgets in a tense spy thriller."},
+    {"title": "Kingdom Hearts", "year": 2002, "genre": "Action RPG", "description": "Sora teams with Disney characters to battle Heartless in a magical crossover RPG."},
+    {"title": "Super Mario Sunshine", "year": 2002, "genre": "Platformer", "description": "Mario cleans Isle Delfino with FLUDD, a water-spraying backpack, in a sunny 3D adventure."},
+    {"title": "Ratchet & Clank", "year": 2002, "genre": "Platformer", "description": "Ratchet and Clank battle an evil chairman with quirky weapons in a sci-fi platformer."},
+    {"title": "Medal of Honor: Allied Assault", "year": 2002, "genre": "FPS", "description": "Fight in WWII battles, from D-Day to secret missions, in a cinematic shooter."},
+    {"title": "Fire Emblem", "year": 2003, "genre": "Tactical RPG", "description": "Lead a band of warriors in turn-based battles with deep strategy and permadeath."},
+    {"title": "F-Zero GX", "year": 2003, "genre": "Racing", "description": "Race futuristic hovercraft at blistering speeds in a challenging sci-fi racer."},
+    {"title": "Star Wars: Knights of the Old Republic", "year": 2003, "genre": "RPG", "description": "Shape your Jedi’s destiny in a Star Wars saga with moral choices and epic battles."},
+    {"title": "Beyond Good & Evil", "year": 2003, "genre": "Action-Adventure", "description": "Jade investigates a conspiracy with photography and stealth in a vibrant sci-fi world."},
+    {"title": "Call of Duty", "year": 2003, "genre": "FPS", "description": "Experience WWII combat through intense, cinematic campaigns across multiple fronts."},
+    {"title": "Prince of Persia: The Sands of Time", "year": 2003, "genre": "Action-Adventure", "description": "Rewind time to navigate traps and fight enemies in a Persian palace."},
+    {"title": "Mario Kart: Double Dash!!", "year": 2003, "genre": "Racing", "description": "Race with dual-character karts, swapping items in frantic multiplayer battles."},
+    {"title": "Need for Speed: Underground", "year": 2003, "genre": "Racing", "description": "Customize cars and race through neon-lit streets in a street-racing classic."},
+    {"title": "The Legend of Zelda: The Wind Waker", "year": 2003, "genre": "Action-Adventure", "description": "Link sails a vast ocean to save his sister in a cel-shaded Zelda epic."},
+    {"title": "Viewtiful Joe", "year": 2003, "genre": "Beat 'em Up", "description": "Joe uses movie-inspired powers to fight in a stylish, side-scrolling brawler."},
+    {"title": "Soulcalibur II", "year": 2003, "genre": "Fighting", "description": "Wield weapons in fast-paced 3D battles with a roster of iconic fighters."},
+    {"title": "Midnight Club II", "year": 2003, "genre": "Racing", "description": "Race through open-world cities, evading cops in high-stakes street races."},
+    {"title": "Guitar Hero", "year": 2005, "genre": "Rhythm", "description": "Rock out with a plastic guitar, hitting notes to classic songs in a cultural phenomenon."},
+    {"title": "Forza Motorsport", "year": 2005, "genre": "Racing", "description": "Race and tune realistic cars in a detailed simulator with deep customization."},
+    {"title": "F.E.A.R.", "year": 2005, "genre": "FPS", "description": "Battle paranormal threats as a special forces operative in a creepy, intense shooter."},
+    {"title": "Psychonauts", "year": 2005, "genre": "Platformer", "description": "Raz explores minds with psychic powers in a quirky, imaginative 3D platformer."},
+    {"title": "Nintendogs", "year": 2005, "genre": "Simulation", "description": "Raise and train virtual puppies using the DS touchscreen in a charming pet sim."},
+    {"title": "Burnout 3: Takedown", "year": 2004, "genre": "Racing", "description": "Crash rivals and race aggressively in a high-octane arcade racer with spectacular collisions."},
+    {"title": "Doom 3", "year": 2004, "genre": "FPS", "description": "Fight demons on a Mars base in a dark, horror-infused first-person shooter."},
+    {"title": "Far Cry", "year": 2004, "genre": "FPS", "description": "Explore a tropical island, battling mercenaries in an open-ended shooter with stunning visuals."},
+    {"title": "The Sims 2", "year": 2004, "genre": "Life Simulation", "description": "Manage Sims’ lives through generations, with expanded customization and 3D graphics."},
+    {"title": "Paper Mario: The Thousand-Year Door", "year": 2004, "genre": "RPG", "description": "Mario embarks on a comedic RPG adventure to collect Crystal Stars."},
+    {"title": "Pikmin 2", "year": 2004, "genre": "Strategy", "description": "Olimar commands Pikmin to explore dungeons and recover treasures in a strategic sequel."},
+    {"title": "Def Jam: Fight for NY", "year": 2004, "genre": "Fighting", "description": "Brawl as hip-hop stars in gritty street fights with a deep customization system."},
+    {"title": "Rome: Total War", "year": 2004, "genre": "Strategy", "description": "Lead Roman factions in real-time battles and turn-based empire management."},
+    {"title": "Gears of War", "year": 2006, "genre": "Third-Person Shooter", "description": "Marcus Fenix battles Locust hordes in a gritty, cover-based shooter with co-op."},
+    {"title": "Wii Sports", "year": 2006, "genre": "Sports", "description": "Play tennis, bowling, and more with motion controls in a family-friendly Wii classic."},
+    {"title": "The Elder Scrolls IV: Oblivion", "year": 2006, "genre": "RPG", "description": "Explore Cyrodiil, closing demonic gates in a sprawling open-world RPG."},
+    {"title": "Okami", "year": 2006, "genre": "Action-Adventure", "description": "As wolf-god Amaterasu, restore a vibrant world using celestial brush techniques."},
+    {"title": "Final Fantasy XII", "year": 2006, "genre": "RPG", "description": "Vaan and allies fight for freedom in Ivalice with an innovative gambit combat system."},
+    {"title": "Dead Rising", "year": 2006, "genre": "Action", "description": "Frank West battles zombies in a mall, using improvised weapons in a chaotic sandbox."},
+    {"title": "Bully", "year": 2006, "genre": "Open World", "description": "Navigate boarding school life as a mischievous teen in a Rockstar open-world adventure."},
+    {"title": "Company of Heroes", "year": 2006, "genre": "RTS", "description": "Command WWII troops in intense real-time battles with destructible environments."},
+    {"title": "Viva Piñata", "year": 2006, "genre": "Simulation", "description": "Build a garden to attract and breed colorful piñata creatures in a charming sim."},
+    {"title": "Rock Band", "year": 2007, "genre": "Rhythm", "description": "Form a band with guitar, drums, and vocals to play iconic songs in a party game."},
+    {"title": "BioShock", "year": 2007, "genre": "FPS", "description": "Explore Rapture, an underwater dystopia, using plasmids and weapons in a narrative-driven shooter."},
+    {"title": "Portal", "year": 2007, "genre": "Puzzle", "description": "Solve puzzles with a portal gun in a witty, sci-fi test facility run by GLaDOS."},
+    {"title": "Call of Duty 4: Modern Warfare", "year": 2007, "genre": "FPS", "description": "Fight in modern warfare campaigns with intense multiplayer and a gripping story."},
+    {"title": "Super Mario Galaxy", "year": 2007, "genre": "Platformer", "description": "Mario explores space, jumping across planets in a groundbreaking 3D platformer."},
+    {"title": "Mass Effect", "year": 2007, "genre": "RPG", "description": "Commander Shepard saves the galaxy in a choice-driven sci-fi RPG with deep lore."},
+    {"title": "Assassin’s Creed", "year": 2007, "genre": "Action-Adventure", "description": "As Altaïr, perform stealthy assassinations in a historical open world during the Crusades."},
+    {"title": "Uncharted: Drake’s Fortune", "year": 2007, "genre": "Action-Adventure", "description": "Nathan Drake hunts treasure in a cinematic adventure with platforming and shooting."},
+    {"title": "Team Fortress 2", "year": 2007, "genre": "FPS", "description": "Join colorful classes in fast-paced, team-based multiplayer with cartoonish charm."},
+    {"title": "The Witcher", "year": 2007, "genre": "RPG", "description": "Geralt of Rivia hunts monsters in a morally complex fantasy world based on the novels."},
+    {"title": "Street Fighter IV", "year": 2008, "genre": "Fighting", "description": "Battle with iconic fighters in a visually stunning 2.5D revival of the classic series."},
+    {"title": "Grand Theft Auto IV", "year": 2008, "genre": "Open World", "description": "Niko Bellic navigates Liberty City’s underworld in a gritty, story-driven sandbox."},
+    {"title": "Fallout 3", "year": 2008, "genre": "RPG", "description": "Explore a post-apocalyptic wasteland, making choices that shape your survivor’s journey."},
+    {"title": "Left 4 Dead", "year": 2008, "genre": "FPS", "description": "Team up to survive zombie hordes in intense, cooperative first-person shooter campaigns."},
+    {"title": "Dead Space", "year": 2008, "genre": "Survival Horror", "description": "Isaac Clarke battles grotesque necromorphs aboard a derelict spaceship."},
+    {"title": "Mirror’s Edge", "year": 2008, "genre": "Action", "description": "Run, jump, and fight as Faith in a first-person parkour adventure in a dystopian city."},
+    {"title": "LittleBigPlanet", "year": 2008, "genre": "Platformer", "description": "Create and share levels with Sackboy in a charming, cooperative platformer."},
+    {"title": "Braid", "year": 2008, "genre": "Puzzle Platformer", "description": "Manipulate time to solve puzzles in an indie platformer with a poetic narrative."},
+    {"title": "Spore", "year": 2008, "genre": "Simulation", "description": "Evolve creatures from cells to civilizations in a unique, multi-stage sim."},
+    {"title": "Burnout Paradise", "year": 2008, "genre": "Racing", "description": "Race and crash in an open-world city with seamless multiplayer events."},
+    {"title": "Batman: Arkham Asylum", "year": 2009, "genre": "Action-Adventure", "description": "Batman battles villains in Arkham, using stealth and gadgets in a gripping adventure."},
+    {"title": "Uncharted 2: Among Thieves", "year": 2009, "genre": "Action-Adventure", "description": "Nathan Drake chases a lost artifact in a cinematic sequel with thrilling set pieces."},
+    {"title": "Dragon Age: Origins", "year": 2009, "genre": "RPG", "description": "Lead a party to stop a demonic blight in a deep, choice-driven fantasy RPG."},
+    {"title": "Borderlands", "year": 2009, "genre": "FPS RPG", "description": "Loot and shoot as a vault hunter in a co-op, cel-shaded sci-fi adventure."},
+    {"title": "Demon’s Souls", "year": 2009, "genre": "Action RPG", "description": "Battle brutal foes in a dark fantasy world with unforgiving difficulty."},
+    {"title": "Bayonetta", "year": 2009, "genre": "Action", "description": "Witch Bayonetta fights angels with stylish, over-the-top combat and magic."},
+    {"title": "Plants vs. Zombies", "year": 2009, "genre": "Tower Defense", "description": "Defend your house from zombies using quirky plants in a strategic casual game."},
+    {"title": "League of Legends", "year": 2009, "genre": "MOBA", "description": "Compete in team-based battles with champions in a landmark multiplayer online arena."},
+    {"title": "Minecraft", "year": 2009, "genre": "Sandbox", "description": "Build, explore, and survive in a blocky, procedurally generated world with limitless creativity."},
+    {"title": "Assassin’s Creed II", "year": 2009, "genre": "Action-Adventure", "description": "Ezio Auditore seeks revenge in Renaissance Italy, mastering stealth and parkour."},
+    {"title": "Madden NFL 2001", "year": 2000, "genre": "Sports", "description": "Play realistic American football with updated rosters and refined gameplay mechanics."},
+    {"title": "NBA Live 2001", "year": 2000, "genre": "Sports", "description": "Compete in fast-paced basketball games with NBA stars and smooth controls."},
+    {"title": "WWF SmackDown! 2: Know Your Role", "year": 2000, "genre": "Sports", "description": "Wrestle as WWF superstars in a story-driven game with create-a-wrestler features."},
+    {"title": "Metal Gear: Ghost Babel", "year": 2000, "genre": "Stealth", "description": "Snake infiltrates a base on Game Boy, using stealth in a portable Metal Gear adventure."},
+    {"title": "Sin and Punishment", "year": 2000, "genre": "Rail Shooter", "description": "Fight alien creatures in a fast-paced, on-rails shooter with intense action."},
+    {"title": "Banjo-Tooie", "year": 2000, "genre": "Platformer", "description": "Banjo and Kazooie explore diverse worlds to stop Grunty in a collectathon sequel."},
+    {"title": "Command & Conquer: Red Alert 2", "year": 2000, "genre": "RTS", "description": "Lead Allied or Soviet forces in a campy, alternate-history strategy game."},
+    {"title": "Marvel vs. Capcom 2", "year": 2000, "genre": "Fighting", "description": "Pit Marvel and Capcom characters in chaotic, tag-team fighting battles."},
+    {"title": "Excitebike 64", "year": 2000, "genre": "Racing", "description": "Race motocross bikes in 3D tracks with tricks and intense competition."},
+    {"title": "Mega Man Legends 2", "year": 2000, "genre": "Action-Adventure", "description": "Mega Man Volnutt explores ruins and battles robots in a 3D action sequel."},
+    {"title": "Pokémon Stadium 2", "year": 2000, "genre": "Strategy", "description": "Battle Pokémon in 3D arenas with expanded rosters and mini-games."},
+    {"title": "Ridge Racer V", "year": 2000, "genre": "Racing", "description": "Drift through arcade-style tracks in a high-speed racing launch title for PS2."},
+    {"title": "Tekken Tag Tournament", "year": 2000, "genre": "Fighting", "description": "Team up fighters in a fast-paced, tag-based 3D fighting game."},
+    {"title": "Tom Clancy’s Rainbow Six: Rogue Spear", "year": 2000, "genre": "Tactical Shooter", "description": "Lead a counter-terrorist team in tactical missions with realistic planning."},
+    {"title": "Wario Land 3", "year": 2000, "genre": "Platformer", "description": "Wario explores a music box world, gaining abilities to solve puzzles and collect treasures."},
+    {"title": "Age of Empires II: The Conquerors", "year": 2000, "genre": "RTS", "description": "Expand your empire with new civilizations and campaigns in a classic strategy expansion."},
+    {"title": "Persona 2: Eternal Punishment", "year": 2000, "genre": "RPG", "description": "Investigate supernatural events in a modern-day JRPG with demon negotiation."},
+    {"title": "Grandia II", "year": 2000, "genre": "RPG", "description": "Ryudo quests to stop an ancient evil in a JRPG with dynamic turn-based combat."},
+    {"title": "Mortal Kombat: Deadly Alliance", "year": 2002, "genre": "Fighting", "description": "Battle with new fighters and deeper mechanics in a rebooted 3D Mortal Kombat."},
+    {"title": "Battlefield 1942", "year": 2002, "genre": "FPS", "description": "Fight in large-scale WWII battles with vehicles and team-based multiplayer."},
+    {"title": "The Legend of Zelda: A Link to the Past", "year": 2002, "genre": "Action-Adventure", "description": "Link’s classic SNES adventure, ported to GBA with a new multiplayer mode."},
+    {"title": "Resident Evil Zero", "year": 2002, "genre": "Survival Horror", "description": "Rebecca and Billy uncover Umbrella’s secrets in a prequel with partner-swapping mechanics."},
+    {"title": "TimeSplitters 2", "year": 2002, "genre": "FPS", "description": "Travel through time to stop an alien invasion in a fast-paced, arcade-style shooter."},
+    {"title": "Tony Hawk’s Pro Skater 3", "year": 2001, "genre": "Sports", "description": "Skate through new levels with improved combos and online multiplayer."},
+    {"title": "Sonic Advance", "year": 2001, "genre": "Platformer", "description": "Sonic races through vibrant levels on the GBA with high-speed platforming."},
+    {"title": "Fable", "year": 2004, "genre": "Action RPG", "description": "Shape your hero’s destiny through choices in a whimsical fantasy world."},
+    {"title": "Halo 2", "year": 2004, "genre": "FPS", "description": "Master Chief and the Arbiter fight Covenant and Flood in a landmark multiplayer shooter."},
+    {"title": "Metal Gear Solid 3: Snake Eater", "year": 2004, "genre": "Stealth", "description": "Naked Snake survives in a 1960s jungle, blending stealth with survival mechanics."},
+    {"title": "Counter-Strike", "year": 2000, "genre": "FPS", "description": "Compete in tactical team-based matches as terrorists or counter-terrorists in a multiplayer classic."},
+    {"title": "Dynasty Warriors 2", "year": 2000, "genre": "Action", "description": "Fight as a warrior in ancient China, mowing down armies in a PS2 launch title."},
+    {"title": "Star Wars Rogue Squadron II: Rogue Leader", "year": 2001, "genre": "Flight Combat", "description": "Pilot X-Wings and other ships in epic Star Wars battles with stunning visuals."},
+    {"title": "Breath of Fire: Dragon Quarter", "year": 2002, "genre": "RPG", "description": "Ryu navigates a dystopian underground world with a unique dragon-based combat system."},
+    {"title": "Vandal Hearts II", "year": 2000, "genre": "Tactical RPG", "description": "Lead rebels in a grid-based strategy RPG with political intrigue and deep customization."},
+    {"title": "Dragon Quest V", "year": 2004, "genre": "RPG", "description": "Follow a hero’s life across generations in a heartfelt JRPG, remade for PS2."},
+    {"title": "Enter the Matrix", "year": 2003, "genre": "Action", "description": "Play as Niobe or Ghost in a Matrix tie-in with bullet-time combat and hacking."},
+    {"title": "Lara Croft Tomb Raider: The Angel of Darkness", "year": 2003, "genre": "Action-Adventure", "description": "Lara uncovers a conspiracy in a darker, urban Tomb Raider adventure."},
+    {"title": "Silent Hill 3", "year": 2003, "genre": "Survival Horror", "description": "Heather confronts cultists and monsters in a foggy, psychological horror sequel."},
+    {"title": "Harvest Moon: Friends of Mineral Town", "year": 2003, "genre": "Farming Sim", "description": "Farm, fish, and build relationships in a charming rural life simulator."},
+    {"title": "Maximo: Ghosts to Glory", "year": 2001, "genre": "Action", "description": "Maximo battles undead foes in a 3D homage to Ghosts ‘n Goblins."},
+    {"title": "Onimusha: Warlords", "year": 2001, "genre": "Action", "description": "Samurai Samanosuke fights demons in feudal Japan with intense sword combat."},
+    {"title": "Crazy Taxi 2", "year": 2001, "genre": "Racing", "description": "Drive passengers around new cities with wild jumps in a chaotic taxi sequel."},
+    {"title": "Zone of the Enders", "year": 2001, "genre": "Action", "description": "Pilot mechs in fast-paced space combat in a sci-fi action game by Hideo Kojima."},
+    {"title": "Dark Cloud", "year": 2000, "genre": "Action RPG", "description": "Rebuild villages and battle monsters in a dungeon-crawling RPG with town-building."},
+    {"title": "Project Gotham Racing", "year": 2001, "genre": "Racing", "description": "Race exotic cars in urban settings, earning style points for skillful driving."},
+    {"title": "Dead or Alive 3", "year": 2001, "genre": "Fighting", "description": "Battle in fluid 3D arenas with a roster of fighters and counter-based combat."},
+    {"title": "Klonoa 2: Lunatea’s Veil", "year": 2001, "genre": "Platformer", "description": "Klonoa navigates dream worlds, solving puzzles in a colorful 2.5D platformer."},
+    {"title": "Frequency", "year": 2001, "genre": "Rhythm", "description": "Create music by hitting notes in a trance-inducing rhythm game by Harmonix."},
+    {"title": "Shadow Hearts", "year": 2001, "genre": "RPG", "description": "Yuri battles supernatural forces in a dark, alternate-history JRPG with judgment ring combat."},
+    {"title": "Freedom Fighters", "year": 2003, "genre": "Third-Person Shooter", "description": "Lead a resistance against a Soviet invasion of New York in a squad-based shooter."},
+    {"title": "Crimson Skies: High Road to Revenge", "year": 2003, "genre": "Flight Combat", "description": "Pilot airships in an alternate 1930s, engaging in dogfights and piracy."},
+    {"title": "WarioWare, Inc.: Mega Microgame$!", "year": 2003, "genre": "Party", "description": "Play rapid-fire microgames in a quirky, fast-paced collection of challenges."},
+    {"title": "Jak II", "year": 2003, "genre": "Platformer", "description": "Jak explores a dystopian city with darker tones and open-world elements in a sequel."},
+    {"title": "Manhunt", "year": 2003, "genre": "Stealth", "description": "Survive as a death row inmate in a brutal, controversial stealth game by Rockstar."},
+    {"title": "SimCity 4", "year": 2003, "genre": "City-Building", "description": "Design and manage sprawling cities with detailed infrastructure and regional play."},
+    {"title": "Tony Hawk’s Underground", "year": 2003, "genre": "Sports", "description": "Skate through a story-driven career, creating tricks and exploring open levels."},
+    {"title": "Xenosaga Episode I: Der Wille zur Macht", "year": 2002, "genre": "RPG", "description": "Shion uncovers cosmic mysteries in a cinematic sci-fi JRPG with complex lore."},
+    {"title": "Tenchu: Wrath of Heaven", "year": 2003, "genre": "Stealth", "description": "Sneak as a ninja, assassinating foes in feudal Japan with stealth and traps."},
+    {"title": "Disgaea: Hour of Darkness", "year": 2003, "genre": "Tactical RPG", "description": "Lead demons in grid-based battles with deep customization and humor."},
+    {"title": "Star Ocean: Till the End of Time", "year": 2003, "genre": "RPG", "description": "Fayt explores a sci-fi universe with real-time combat in a sprawling JRPG."},
+    {"title": "Amplitude", "year": 2003, "genre": "Rhythm", "description": "Remix music tracks by hitting notes in a fast-paced, futuristic rhythm sequel."},
+    {"title": "Virtua Fighter 4", "year": 2001, "genre": "Fighting", "description": "Master martial arts in a technical 3D fighter with deep mechanics."},
+    {"title": "SSX Tricky", "year": 2001, "genre": "Sports", "description": "Perform outrageous snowboarding tricks with flashy characters and vibrant courses."},
+    {"title": "RuneScape", "year": 2001, "genre": "MMORPG", "description": "Quest and socialize in a fantasy world with simple graphics and deep progression."},
+    {"title": "Serious Sam: The First Encounter", "year": 2001, "genre": "FPS", "description": "Blast hordes of enemies in a fast-paced, over-the-top shooter with humor."},
+    {"title": "Gothic", "year": 2001, "genre": "RPG", "description": "Survive a harsh prison colony in a gritty, open-world fantasy RPG."},
+    {"title": "Black & White", "year": 2001, "genre": "God Game", "description": "Rule as a god, shaping a world and guiding creatures with moral choices."},
+    {"title": "Anarchy Online", "year": 2001, "genre": "MMORPG", "description": "Explore a sci-fi planet, battling and leveling up in an early online RPG."},
+    {"title": "Aliens vs. Predator 2", "year": 2001, "genre": "FPS", "description": "Play as Alien, Predator, or Marine in a thrilling, multi-perspective shooter."},
+    {"title": "Arcanum: Of Steamworks and Magick Obscura", "year": 2001, "genre": "RPG", "description": "Explore a steampunk-fantasy world with deep character customization and quests."},
+    {"title": "Conker’s Bad Fur Day", "year": 2001, "genre": "Platformer", "description": "Conker navigates a crude, humorous world in a mature twist on 3D platforming."},
+    {"title": "Operation Flashpoint: Cold War Crisis", "year": 2001, "genre": "Tactical Shooter", "description": "Fight in realistic military campaigns with open-ended missions and vehicles."},
+    {"title": "Throne of Darkness", "year": 2001, "genre": "Action RPG", "description": "Lead samurai in a dark fantasy Japan, battling demons in a Diablo-like RPG."},
+    {"title": "Civilization III", "year": 2001, "genre": "Turn-Based Strategy", "description": "Build an empire through history, balancing diplomacy, war, and culture."},
+    {"title": "Stronghold", "year": 2001, "genre": "RTS", "description": "Design and defend medieval castles while managing resources and armies."},
+    {"title": "Pro Evolution Soccer", "year": 2001, "genre": "Sports", "description": "Compete in realistic soccer matches with precise controls and team tactics."},
+    {"title": "Tropico", "year": 2001, "genre": "City-Building", "description": "Rule a Caribbean island as a dictator, balancing economy and politics."},
+    {"title": "Sega Bass Fishing", "year": 2001, "genre": "Sports", "description": "Cast lines and reel in fish in a realistic arcade fishing simulator."},
+    {"title": "NFL Blitz 2002", "year": 2001, "genre": "Sports", "description": "Play over-the-top American football with exaggerated hits and arcade rules."},
+    {"title": "Star Wars: Galactic Battlegrounds", "year": 2001, "genre": "RTS", "description": "Command Star Wars armies in real-time battles inspired by Age of Empires."},
+    {"title": "Shenmue II", "year": 2001, "genre": "Action-Adventure", "description": "Ryo continues his quest in Hong Kong, exploring a dense open world with QTEs."},
+    {"title": "Super Monkey Ball", "year": 2001, "genre": "Puzzle", "description": "Guide monkeys in balls through tricky mazes in a fun, physics-based game."},
+    {"title": "Wave Race: Blue Storm", "year": 2001, "genre": "Racing", "description": "Race jet skis across dynamic water tracks with realistic wave physics."},
+    {"title": "Myst III: Exile", "year": 2001, "genre": "Adventure", "description": "Solve intricate puzzles in a beautifully rendered world to uncover a betrayal."},
+    {"title": "Ace Combat 04: Shattered Skies", "year": 2001, "genre": "Flight Combat", "description": "Pilot fighter jets in a cinematic air combat campaign with a gripping story."},
+    {"title": "NBA Street", "year": 2001, "genre": "Sports", "description": "Play flashy streetball with NBA stars in fast-paced, arcade-style matches."},
+    {"title": "Resident Evil Gaiden", "year": 2001, "genre": "Action", "description": "Leon battles zombies on a cruise ship in a Game Boy Color spin-off."},
+    {"title": "Evil Twin: Cyprien’s Chronicles", "year": 2001, "genre": "Platformer", "description": "Cyprien explores a dark dream world to rescue friends in a surreal platformer."},
+    {"title": "Cossacks: European Wars", "year": 2001, "genre": "RTS", "description": "Command massive armies in historical European battles with detailed strategy."},
+    {"title": "ESPN NFL Primetime 2002", "year": 2001, "genre": "Sports", "description": "Play football with ESPN branding, featuring updated rosters and commentary."},
+    {"title": "Kessen II", "year": 2001, "genre": "Strategy", "description": "Lead armies in ancient China with real-time battles and cinematic storytelling."},
+    {"title": "NBA 2K2", "year": 2001, "genre": "Sports", "description": "Compete in realistic basketball games with improved AI and streetball modes."},
+    {"title": "Test Drive Off-Road Wide Open", "year": 2001, "genre": "Racing", "description": "Race rugged vehicles across open off-road tracks with dynamic terrain."},
+    {"title": "ZOE: The 2nd Runner", "year": 2003, "genre": "Action", "description": "Pilot mechs in explosive battles with cinematic flair in a sci-fi sequel."},
+    {"title": "Chaos Legion", "year": 2003, "genre": "Action", "description": "Summon legions to fight gothic enemies in a fast-paced, dark action game."},
+    {"title": "Otogi: Myth of Demons", "year": 2002, "genre": "Action", "description": "A warrior battles demons in a mythical Japan with destructible environments."},
+    {"title": "Panzer Dragoon Orta", "year": 2002, "genre": "Rail Shooter", "description": "Ride a dragon through stunning sci-fi worlds, shooting enemies in a sequel."},
+    {"title": "Gunvalkyrie", "year": 2002, "genre": "Action", "description": "Pilot a mech suit in a steampunk shooter with challenging controls and exploration."},
+    {"title": "Steel Battalion", "year": 2002, "genre": "Simulation", "description": "Pilot a mech with a massive controller in a realistic, immersive war sim."},
+    {"title": "ToeJam & Earl III: Mission to Earth", "year": 2002, "genre": "Action", "description": "Funky aliens collect items and groove through Earth in a quirky adventure."},
+    {"title": "Blinx: The Time Sweeper", "year": 2002, "genre": "Platformer", "description": "Blinx manipulates time to solve puzzles and fight enemies in a 3D platformer."},
+    {"title": "Rallisport Challenge", "year": 2002, "genre": "Racing", "description": "Race rally cars across diverse tracks with realistic physics and stunning visuals."},
+    {"title": "MechAssault", "year": 2002, "genre": "Action", "description": "Pilot giant mechs in explosive battles with multiplayer support on Xbox Live."},
+    {"title": "Suikoden III", "year": 2002, "genre": "RPG", "description": "Recruit 108 heroes to fight in a war-torn fantasy world with multiple perspectives."},
+    {"title": "Wild Arms 3", "year": 2002, "genre": "RPG", "description": "Explore a Western-inspired fantasy world as drifters in a turn-based JRPG."},
+    {"title": "Kingdom Hearts: Chain of Memories", "year": 2004, "genre": "Action RPG", "description": "Sora battles in a card-based combat system in a GBA Disney crossover sequel."},
+    {"title": "The Legend of Zelda: Four Swords Adventures", "year": 2004, "genre": "Action-Adventure", "description": "Four Links cooperate and compete in a multiplayer Zelda adventure."},
+    {"title": "Metroid: Zero Mission", "year": 2004, "genre": "Action-Adventure", "description": "Samus’ origin story remade with tight platforming and exploration on GBA."},
+    {"title": "Pokémon FireRed/LeafGreen", "year": 2004, "genre": "RPG", "description": "Remakes of Pokémon Red/Blue with updated graphics and new features."},
+    {"title": "Mario vs. Donkey Kong", "year": 2004, "genre": "Puzzle Platformer", "description": "Mario navigates levels to rescue toys from Donkey Kong in a GBA puzzler."},
+    {"title": "Advance Wars 2: Black Hole Rising", "year": 2003, "genre": "Turn-Based Strategy", "description": "Command armies against a new threat in a deeper tactical sequel."},
+    {"title": "Fire Emblem: The Sacred Stones", "year": 2004, "genre": "Tactical RPG", "description": "Lead twins to save their kingdom in a strategic RPG with branching promotions."},
+    {"title": "Gradius V", "year": 2004, "genre": "Shoot 'em Up", "description": "Pilot a spaceship through intense side-scrolling levels in a classic shooter."},
+    {"title": "R-Type Final", "year": 2003, "genre": "Shoot 'em Up", "description": "Battle biomechanical foes in a challenging, visually striking side-scroller."},
+    {"title": "Castlevania: Aria of Sorrow", "year": 2003, "genre": "Action RPG", "description": "Soma Cruz explores Dracula’s castle, absorbing enemy souls in a Metroidvania."},
+    {"title": "Mega Man Zero", "year": 2002, "genre": "Action", "description": "Zero battles in a fast-paced, challenging platformer set in a futuristic world."},
+    {"title": "Golden Sun: The Lost Age", "year": 2002, "genre": "RPG", "description": "Continue the elemental quest as Felix in a sequel with interconnected stories."},
+    {"title": "Wario World", "year": 2003, "genre": "Platformer", "description": "Wario punches through a treasure-filled world in a 3D beat-em-up platformer."},
+    {"title": "Sword of Mana", "year": 2003, "genre": "Action RPG", "description": "Explore a vibrant world in a remade Mana game with real-time combat."},
+    {"title": "Shining Soul", "year": 2002, "genre": "Action RPG", "description": "Hack and slash through dungeons with friends in a cooperative RPG."},
+    {"title": "Tactics Ogre: The Knight of Lodis", "year": 2001, "genre": "Tactical RPG", "description": "Lead a rebellion in a deep, grid-based strategy game with branching paths."},
+    {"title": "Bomberman Tournament", "year": 2001, "genre": "Action", "description": "Battle with bombs and explore an RPG-style world in a GBA Bomberman adventure."},
+    {"title": "ChuChu Rocket!", "year": 2000, "genre": "Puzzle", "description": "Guide mice to rockets while avoiding cats in a frantic multiplayer puzzler."},
+    {"title": "Seaman", "year": 2000, "genre": "Simulation", "description": "Raise a talking fish-creature using a microphone in a bizarre virtual pet sim."},
+    {"title": "Samba de Amigo", "year": 2000, "genre": "Rhythm", "description": "Shake maracas to Latin beats in a colorful, energetic rhythm game."},
+    {"title": "Space Channel 5", "year": 2000, "genre": "Rhythm", "description": "Ulala dances to save the galaxy from aliens in a stylish, music-driven adventure."},
+    {"title": "Power Stone 2", "year": 2000, "genre": "Fighting", "description": "Brawl in dynamic 3D arenas with weapons and power-ups in a chaotic fighter."},
+    {"title": "Capcom vs. SNK: Millennium Fight 2000", "year": 2000, "genre": "Fighting", "description": "Pit Capcom and SNK fighters in a crossover 2D fighting game with deep mechanics."},
+    {"title": "Virtua Tennis", "year": 2000, "genre": "Sports", "description": "Play realistic tennis matches with intuitive controls and a variety of courts."},
+    {"title": "NFL Street", "year": 2004, "genre": "Sports", "description": "Play gritty street football with NFL stars in fast-paced, arcade-style matches."},
+    {"title": "ESPN NBA Basketball", "year": 2003, "genre": "Sports", "description": "Compete in realistic basketball with 24/7 mode for career progression."},
+    {"title": "FIFA 2001", "year": 2000, "genre": "Sports", "description": "Play soccer with global teams, featuring updated rosters and smooth gameplay."},
+    {"title": "NHL 2002", "year": 2001, "genre": "Sports", "description": "Skate in fast-paced hockey matches with improved AI and dynamic commentary."},
+    {"title": "Tiger Woods PGA Tour 2004", "year": 2003, "genre": "Sports", "description": "Golf on iconic courses with realistic mechanics and career progression."},
+    {"title": "NBA Street Vol. 2", "year": 2003, "genre": "Sports", "description": "Slam dunk in flashy streetball games with legends and trick moves."},
+    {"title": "Madden NFL 2005", "year": 2004, "genre": "Sports", "description": "Play football with new defensive controls and a deeper franchise mode."},
+    {"title": "NCAA Football 2003", "year": 2002, "genre": "Sports", "description": "Compete in college football with authentic teams and intense rivalries."},
+    {"title": "World Soccer Winning Eleven 6", "year": 2002, "genre": "Sports", "description": "Play tactical soccer with realistic mechanics and international teams."},
+    {"title": "Tony Hawk’s Pro Skater 4", "year": 2002, "genre": "Sports", "description": "Skate in open levels with new tricks and a focus on exploration."},
+    {"title": "SSX 3", "year": 2003, "genre": "Sports", "description": "Snowboard down a massive open mountain with tricks and races."},
+    {"title": "Virtua Striker 3", "year": 2001, "genre": "Sports", "description": "Play arcade-style soccer with fast-paced matches and vibrant visuals."},
+    {"title": "Pro Evolution Soccer 3", "year": 2003, "genre": "Sports", "description": "Compete in refined soccer matches with improved AI and realistic physics."},
+    {"title": "Midnight Club 3: DUB Edition", "year": 2005, "genre": "Racing", "description": "Race customized cars in open-world cities with a hip-hop vibe."},
+    {"title": "Need for Speed: Most Wanted", "year": 2005, "genre": "Racing", "description": "Evade cops and climb the blacklist in a thrilling open-world street racer."},
+    {"title": "Gran Turismo 4", "year": 2004, "genre": "Racing", "description": "Race over 700 cars on realistic tracks in a definitive racing simulator."},
+    {"title": "Forza Motorsport 2", "year": 2007, "genre": "Racing", "description": "Tune and race cars with deep customization in a realistic simulator sequel."},
+    {"title": "Colin McRae Rally 2005", "year": 2004, "genre": "Racing", "description": "Race rally cars on diverse tracks with realistic handling and damage."},
+    {"title": "FlatOut", "year": 2004, "genre": "Racing", "description": "Race and wreck cars in a chaotic, destructible derby-style racer."},
+    {"title": "MX Unleashed", "year": 2004, "genre": "Racing", "description": "Race motocross bikes and perform stunts in open off-road environments."},
+    {"title": "Racing Gears Advance", "year": 2004, "genre": "Racing", "description": "Race futuristic cars with weapons in a fast-paced GBA racer."},
+    {"title": "TOCA Race Driver 2", "year": 2004, "genre": "Racing", "description": "Compete in varied racing disciplines with a story-driven career mode."},
+    {"title": "OutRun 2006: Coast 2 Coast", "year": 2006, "genre": "Racing", "description": "Drift through vibrant tracks in a classic arcade racer with modern polish."},
+    {"title": "Test Drive Unlimited", "year": 2006, "genre": "Racing", "description": "Race and explore an open-world Hawaiian island with online multiplayer."},
+    {"title": "F1 2002", "year": 2002, "genre": "Racing", "description": "Race Formula 1 cars on authentic tracks with realistic mechanics."},
+    {"title": "Wipeout Fusion", "year": 2002, "genre": "Racing", "description": "Race anti-gravity ships in futuristic tracks with high-speed thrills."},
+    {"title": "Auto Modellista", "year": 2002, "genre": "Racing", "description": "Race stylized cars in a cel-shaded arcade racer with online features."},
+    {"title": "V-Rally", "year": 2002, "genre": "Racing", "description": "Race rally cars across varied terrains with arcade-style handling."},
+    {"title": "R: Racing Evolution", "year": 2003, "genre": "Racing", "description": "Race in a story-driven career mode with realistic car physics."},
+    {"title": "NASCAR Thunder 2004", "year": 2003, "genre": "Racing", "description": "Race stock cars in NASCAR events with deep career and rivalry systems."},
+    {"title": "Project Gotham Racing 2", "year": 2003, "genre": "Racing", "description": "Race exotic cars in cities, earning kudos for stylish driving."},
+    {"title": "Mario Kart DS", "year": 2005, "genre": "Racing", "description": "Race with Mario characters online or locally in a polished kart racer."},
+    {"title": "Ridge Racer 6", "year": 2005, "genre": "Racing", "description": "Drift through arcade tracks in a vibrant, high-speed racing sequel."},
+    {"title": "Need for Speed: Carbon", "year": 2006, "genre": "Racing", "description": "Race crews and conquer territories in a neon-lit street racing sequel."},
+    {"title": "Excite Truck", "year": 2006, "genre": "Racing", "description": "Race off-road trucks with motion controls in a fast-paced Wii launch title."},
+    {"title": "MotorStorm", "year": 2006, "genre": "Racing", "description": "Race diverse vehicles in chaotic, muddy off-road festivals."},
+    {"title": "Diddy Kong Racing DS", "year": 2007, "genre": "Racing", "description": "Race and battle with Diddy Kong in a remade kart racer with DS features."},
+    {"title": "Race Driver: GRID", "year": 2008, "genre": "Racing", "description": "Race across global tracks with realistic damage and varied disciplines."},
+    {"title": "Pure", "year": 2008, "genre": "Racing", "description": "Perform stunts and race ATVs in stunning open environments."},
+    {"title": "TrackMania Nations Forever", "year": 2008, "genre": "Racing", "description": "Race and build tracks in a free, addictive online arcade racer."},
+    {"title": "Midnight Club: Los Angeles", "year": 2008, "genre": "Racing", "description": "Race and customize cars in a detailed open-world Los Angeles."},
+    {"title": "Fuel", "year": 2009, "genre": "Racing", "description": "Race across a massive post-apocalyptic open world with dynamic weather."},
+    {"title": "Forza Motorsport 3", "year": 2009, "genre": "Racing", "description": "Race and tune hundreds of cars in a visually stunning simulator."},
+    {"title": "Need for Speed: Shift", "year": 2009, "genre": "Racing", "description": "Race with a focus on realistic driving physics and cockpit views."},
+    {"title": "Blur", "year": 2010, "genre": "Racing", "description": "Race with power-ups in a fast-paced arcade racer blending realism and chaos."},
+    {"title": "ModNation Racers", "year": 2010, "genre": "Racing", "description": "Race and create custom tracks and karts in a vibrant, user-generated racer."},
+    {"title": "Split/Second", "year": 2010, "genre": "Racing", "description": "Trigger environmental hazards to outrace rivals in an explosive arcade racer."},
+    {"title": "Hot Pursuit", "year": 2010, "genre": "Racing", "description": "Race or chase as cops in a thrilling Need for Speed reboot with online play."},
+]
+
+df = pd.DataFrame(data)
+df.head()
